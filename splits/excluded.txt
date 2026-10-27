@@ -1,0 +1,6 @@
+# Entries dropped after sampling: integrative (IHM) models with no atomic
+# coordinates (coarse-grained spheres only). Read by scripts/prepare_splits.py.
+9A19_4
+8ZZ2_4
+9A25_15
+9A8T_15

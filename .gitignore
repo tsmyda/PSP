@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments / secrets
+.venv/
+.env
+
+# Large data: clusters, structures, extracted chains (~29 GB)
+# Regenerate with the commands in README.md
+data/
+
+# Logs and build outputs
+*.log
+docs/**/*.pdf
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store

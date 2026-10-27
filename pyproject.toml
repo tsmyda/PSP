@@ -1,0 +1,9 @@
+[project]
+name = "psp"
+version = "0.1.0"
+description = "Protein structure prediction: dataset preparation from PDB"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gemmi>=0.7.5",
+]
