@@ -18,6 +18,7 @@ data/
 
 # Logs and build outputs
 *.log
+predictions/
 docs/**/*.pdf
 
 # Editors / OS
